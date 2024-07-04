@@ -12,7 +12,7 @@ nav {
   background-color: #DFFFE5;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  align-items: center;
 }
 
 svg {
@@ -52,7 +52,7 @@ svg {
   width: 30px;
   border: none;
   border-radius: 0 10px 10px 0;
-  border: 1px solid black;
+  border: 1px solid #C4C5CA;
   border-left: none; 
 }
 
@@ -68,7 +68,7 @@ svg {
   outline: none;
   margin: 0 0 0 15px;
   width: 90%;
-  border: 1px solid black;
+  border: 1px solid #C4C5CA;
   border-right: none; 
 }
 
